@@ -57,38 +57,50 @@
  
  /* course style start */
     
-    .card-style {
-        padding: 15px 15px;
-        background: #FFFFFF;
-        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
-        border-radius: 18px;
-    }
-    .text-align {
-        text-align: center;
-    }
+.card-style {
+    padding: 15px 15px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.text-align {
+    text-align: center;
+}
 
  /* course style end */
 
  /* carousal style start */
-    .carousel-item {
-        padding: 10px 30px;
+.carousel-item {
+    padding: 10px 30px;
         
-    }
+}
 /* carousal style end */
  
 /* Testimonial style start */
-    .testimonial img{
-        width:100px;
-    }
+.testimonial img{
+    width:100px;
+}
 
-    .testimonial {
-        padding: 0px 200px;
-    }
+.testimonial {
+    padding: 0px 200px;
+}
 /* Testimonial style end */
  
-
 /* footer style start */
-
+footer {
+       
+    height: 370px;
+    background-color: #282431;
+    color: #FFFFFF;
+}
+.footer-text {
+    margin: 0 auto;
+    padding: 27px;
+}
+    
+footer p {
+    text-align: center;
+}
 /* footer style end */
  
 
