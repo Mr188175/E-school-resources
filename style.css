@@ -32,11 +32,28 @@
  /* Nav style end */
 
  /* introduction style start */
+.bg-color {
+    background-color: #F0FFF0;
+}
+
  .introduction {
      padding: 0 50px;
  }
  /* introduction style end */
  
+ /* info style start */
+.col-sm-3 img {
+    width: 50px;
+    padding-bottom: 17px;
+    
+}
+#book {
+    width: 42px;
+}
+.info {
+    text-align: center;  
+}
+ /* info style end */
  
 
  
