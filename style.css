@@ -1,5 +1,14 @@
+ /* style for all properties */
+ .container {
+     margin-bottom: 100px;
+ }
+ /* style for all properties */
+
+
+ /* Nav style start */
  .logo-img {
      width: 130px;
+     margin-left: 25px;
  }
  
  .navbar-nav a  {
@@ -8,10 +17,11 @@
  
  
  
- .btn-1{
+ .btn-primary{
     position: relative;
     top: 4px;
-    padding: 5px 28px;
+    right: 4px;
+    padding: 8px 28px;
     background: #21B573;
     border: none;
     border-radius: 12px;
@@ -19,6 +29,13 @@
     
  }
  
+ /* Nav style end */
+
+ /* introduction style start */
+ .introduction {
+     padding: 0 50px;
+ }
+ /* introduction style end */
  
  
 
