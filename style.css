@@ -55,6 +55,19 @@
 }
  /* info style end */
  
+ /* course style start */
+    
+    .card-style {
+        padding: 15px 15px;
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+        border-radius: 18px;
+    }
+    .text-align {
+        text-align: center;
+    }
+
+ /* course style end */
 
  
  
