@@ -69,9 +69,27 @@
 
  /* course style end */
 
+ /* carousal style start */
+    .carousel-item {
+        padding: 10px 30px;
+        
+    }
+/* carousal style end */
  
+/* Testimonial style start */
+    .testimonial img{
+        width:100px;
+    }
+
+    .testimonial {
+        padding: 0px 200px;
+    }
+/* Testimonial style end */
  
- 
+
+/* footer style start */
+
+/* footer style end */
  
 
 
